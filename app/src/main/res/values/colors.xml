@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#286B95</color>
+    <color name="colorPrimaryDark">#0A395A</color>
+    <color name="colorAccent">#58D4DE</color>
+
+    <color name="colorText">@android:color/white</color>
+    <color name="colorProgress">#58D4DE</color>
+    <color name="colorAction">#FF6484</color>
+    <color name="color_arc">@android:color/white</color>
+    <color name="color_text">@android:color/white</color>
+    <color name="color_progress">#58D4DE</color>
+
+    <color name="seafoam">#ffc6f9e5</color>
+    <color name="chartreuse">#ffb6e9b5</color>
+    <color name="emerald">#ffa6d9b5</color>
+    <color name="bluegrass">#ff96c9b5</color>
+    <color name="turquoise">#ff86b9b5</color>
+    <color name="slate">#ff76a9b5</color>
+</resources>
