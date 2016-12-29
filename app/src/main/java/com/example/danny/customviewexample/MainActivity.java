@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         pie.addItem("Euripides", 1, res.getColor(R.color.turquoise));
         pie.addItem("Ganymede", 3, res.getColor(R.color.slate));
         Log.e("TEST", "dev");
+        Log.e("TEST", "TEST DEV");
 
         findViewById(R.id.btnSet).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
