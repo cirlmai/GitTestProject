@@ -3,6 +3,7 @@ package com.example.danny.customviewexample;
 import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
@@ -24,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         pie.addItem("Daedalus", 3, res.getColor(R.color.bluegrass));
         pie.addItem("Euripides", 1, res.getColor(R.color.turquoise));
         pie.addItem("Ganymede", 3, res.getColor(R.color.slate));
+        Log.e("TEST", "dev");
 
         findViewById(R.id.btnSet).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
